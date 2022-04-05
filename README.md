@@ -16,14 +16,14 @@
 
 ![Header](https://github.com/Ashishpal438/Todo/blob/main/todo/Images/landing.png)
 
-2. Task Added Ui
+2. Ui after adding task
 
 ![Header](https://github.com/Ashishpal438/Todo/blob/main/todo/Images/task-added.png)
   
 
 ## Demo 🎥
 
--Deployed Link: [Todo-app](https://tic-tac-toe-liard-chi.vercel.app/)
+-Deployed Link: [Todo-app](https://todo-app-eight-plum.vercel.app/)
 
 
 <br/>
